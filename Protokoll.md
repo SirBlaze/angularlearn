@@ -80,5 +80,7 @@
         3. *Commit* changes to the *local* repository
         4. *Push* changes to the *remote* repository
 
+    - NextSection
+
 
     
