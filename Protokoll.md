@@ -78,7 +78,7 @@
         1. Create a *repository*
         2. *Add* files that should be *tracked*
         3. *Commit* changes to the *local* repository
-        4. *Push* changes to the *remote* repository 
+        4. *Push* changes to the *remote* repository
 
 
     
